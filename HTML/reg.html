@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<title>Registration Form</title>
+</head>
+<h1>REGISTRATION FORM</H1>
+<body>
+<form name="regnform" action="process.html" method="get">
+<table border="3">
+<tr>
+<td>Name:</td><td><input type="text" name="txtname"></td>
+</tr>
+<td>DOB:</td><td><input type="date" name="txtDOB" value="dd mm yy"></TD>
+</TR>
+<tr>
+<td>Address:</td><td><textarea name="txtaddress" rows="6"
+cols="60"></textarea></td>
+</tr>
+<tr>
+<td>Gender:</td><td><input type="radio" name="radgender">male</br>
+                <input type="radio" name="radgender">female</td>
+</tr>
+<tr>
+<td>Hobbies:</td><td><select name="selhobby">
+                    <option avlue="swim">swimming</option>
+                    <option value="read">reading</option>
+                    <option value="travel">travelling</option></td>
+</tr>
+<tr>
+<td>EmailId:</td><td><input type="email" name="txtemail" value="enter your email id"></td>
+</tr>
+<tr>
+<td><input type="submit" name="btnsubmit" value="submit"></td>
+<td><input type="reset" name="btnreset" value="reset"></td>
+</tr>
+
+<table>
+</body>
+</html>

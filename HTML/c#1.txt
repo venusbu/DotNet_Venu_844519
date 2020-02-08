@@ -1,0 +1,18 @@
+using System;
+using system.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SimpleMaths
+{
+        class Program
+        {
+              static void Main(string[] args)
+        {
+                   float n1,n2;
+                   Console.WriteLine("enter first number\n");
+                    n1=float.
+          }
+          }
+}
