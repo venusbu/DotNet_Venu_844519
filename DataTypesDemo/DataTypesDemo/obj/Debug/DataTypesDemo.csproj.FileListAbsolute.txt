@@ -1,0 +1,6 @@
+C:\Users\BLTuser.BLT155\source\repos\DataTypesDemo\DataTypesDemo\bin\Debug\DataTypesDemo.exe.config
+C:\Users\BLTuser.BLT155\source\repos\DataTypesDemo\DataTypesDemo\bin\Debug\DataTypesDemo.exe
+C:\Users\BLTuser.BLT155\source\repos\DataTypesDemo\DataTypesDemo\bin\Debug\DataTypesDemo.pdb
+C:\Users\BLTuser.BLT155\source\repos\DataTypesDemo\DataTypesDemo\obj\Debug\DataTypesDemo.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT155\source\repos\DataTypesDemo\DataTypesDemo\obj\Debug\DataTypesDemo.exe
+C:\Users\BLTuser.BLT155\source\repos\DataTypesDemo\DataTypesDemo\obj\Debug\DataTypesDemo.pdb
